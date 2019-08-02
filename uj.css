@@ -1,0 +1,103 @@
+body{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    width:50%;
+    background:#000000d5;
+
+}
+
+
+
+
+.img{
+width:30%;
+height:50%;
+border-radius: 30%;
+border: 3px solid rgb(0, 174, 255);
+}
+.mybigbox{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:rgb(0, 255, 21);
+    
+    
+}
+.smallbox1{
+    
+    border-radius: 30px solid green;
+
+}
+.more{
+    margin-top: 10px;
+    border-radius:10px;
+}
+.more:hover{
+    color:green;
+    background: green;
+    width:50px;
+    border:4px;
+   border-radius:4px;
+
+}
+
+.img3{
+    border-radius:30%;
+    width:30%;
+    height:50%;
+    border: 3px solid rgb(0, 174, 255);
+}
+.img4{
+    border: 3px dotted rgb(255, 0, 0);
+   border-radius: 50%;
+   width:30%;
+   height:50%;
+}
+.td{
+    text-align: center;
+    margin-left: 30%;
+    border: 3px groove;
+    color: rgb(0, 255, 21);
+}
+.fes{
+    margin-bottom: 10px;
+    border:10px;
+}
+.fes:hover{
+    color:green;
+}
+
+.sur{
+    margin-bottom: 10px;
+    border:10px;
+}
+.sur:hover{
+    color:green
+}
+.user{
+    margin-bottom: 10px;
+    border:10px;
+}
+.user:hover{
+    color:green;
+}
+.rpas{
+    margin-bottom: 10px;
+    border:10px;
+}
+.rpas:hover{
+    color:green;
+}
+.cpas{
+    margin-bottom: 10px;
+    border:10px;
+}
+.cpas:hover{
+    color:green;
+}
+.reg{
+    margin-bottom: 10px;
+}
+.reg:hover{
+    color:green;
+}
